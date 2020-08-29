@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="jpa" name="JPA">
+      <configuration>
+        <setting name="validation-enabled" value="true" />
+        <datasource-mapping>
+          <factory-entry name="HibernateCRUD" value="513c300a-6f4b-4074-8b39-00a2a9dc5e6c" />
+        </datasource-mapping>
+        <naming-strategy-map />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="org.hibernate:hibernate-core:5.4.18.Final" level="project" />
+    <orderEntry type="library" name="io.github.typhon0:AnimateFX:1.2.1" level="project" />
+    <orderEntry type="library" name="mysql:mysql-connector-java:5.1.23" level="project" />
+  </component>
+</module>
