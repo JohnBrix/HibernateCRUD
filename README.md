@@ -23,6 +23,6 @@ Hibernate ORM as backend my front end is Java FX.
 
 ![Java FX UI](img/ui.png)
 
-<h2>How to delete if you dont see </h2>
+<h2>How to delete if you dont see: </h2>
 
-<h4> Select the following you want to delete, then right click mouse now you can delete.</h4>
+<h4> Select the following data that you want to delete, then Right Click mouse now you can delete.</h4>
